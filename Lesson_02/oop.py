@@ -5,6 +5,6 @@ class Person:
 
 
 class Price:
-   def __init__(self, currency, value) -> None:
-      self.currency = currency
-      self.value = value 
+   def __init__(self, currency: str, value: int) -> None:
+      self.currency: str = currency
+      self.value: int = value 

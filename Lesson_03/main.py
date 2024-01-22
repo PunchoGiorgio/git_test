@@ -1,8 +1,10 @@
 def foo():
-   pass
+    pass
+
 
 def bar():
-   pass
+    pass
+
 
 def baz():
-   pass
+    pass

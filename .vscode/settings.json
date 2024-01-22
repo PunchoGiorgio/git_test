@@ -1,0 +1,12 @@
+{
+   "editor.codeActionsOnSave": {
+    "source.organizeImports": "explicit"
+  },
+  "editor.formatOnSave": true,
+  "editor.formatOnPaste": true,
+  "python.formatting.provider": "black",
+  "python.formatting.blackArgs": [
+      "-t",
+      "py37"
+  ]
+}

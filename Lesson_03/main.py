@@ -1,4 +1,4 @@
-def foo():
+def foo(name, age, blablabla):
     pass
 
 

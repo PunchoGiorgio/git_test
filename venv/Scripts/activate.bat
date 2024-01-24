@@ -1,4 +1,4 @@
-@set "VIRTUAL_ENV=C:\Users\User\PycharmProjects\pythonProject4\venv"
+@set "VIRTUAL_ENV=C:\Users\User\PycharmProjects\git_test\venv"
 
 @if defined _OLD_VIRTUAL_PROMPT (
     @set "PROMPT=%_OLD_VIRTUAL_PROMPT%"
